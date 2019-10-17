@@ -20,6 +20,10 @@
 
 
 ## 提交列表
+> 任务1 提交已截止。不再接受实习生提交。
+>
+> 持续招新成员仍可继续提交。
+
 - [Neboer](https://github.com/Neboer)
 - [DuckSoft](https://www.ducksoft.site/)
 - [SingHeart](https://github.com/xinjiempolde)
@@ -43,3 +47,17 @@
 - [slalitt](https://github.com/slalitt)
 - [beyond009](https://github.com/beyond009)
 - [wsgeo](https://github.com/wsgeo)
+- [Lllive](https://github.com/Lllive)
+- [Lebron23-ZHY](https://github.com/Lebron23-ZHY)
+- [Eventide00](https://github.com/Eventide00)
+- [Nan1la](https://github.com/Nan1la)
+- [a-new-b](https://a-new-b.github.io/)
+- [Vincent-Weng1](https://github.com/Vincent-Weng1)
+- [ivnm](https://github.com/iv-nm)
+- [ZimHook](https://github.com/ZimHook)
+- [Lonelyspark-nech](https://github.com/Lonelyspark-nech)
+- [psdem](https://github.com/psdem)
+- [Kevin-Beta](https://github.com/Kevin-Beta)
+- [BazingaJack](https://github.com/BazingaJack)
+- [axoresss](https://github.com/axoresss)
+- [lihua8848](https://github.com/lihua8848)
